@@ -8,7 +8,8 @@
 <img src="https://komarev.com/ghpvc/?username=la-niina&label=Views&color=blue&style=plastic" alt="digvijay173" />
 </p>
 <br/>
-
+[![mxbhaee's github stats](https://github-readme-stats.vercel.app/api?username=la-niina&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+</br>
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
