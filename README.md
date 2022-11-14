@@ -9,7 +9,7 @@
 </p>
 <br/>
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 </br>
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
