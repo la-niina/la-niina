@@ -1,3 +1,14 @@
+<img src="https://github.com/secgroup/flower/raw/master/demo_images/logo.svg"/>
+
+```java
+1  class Person {
+2      constructor() {
+3        this.name = "la niina";
+4        this.traits = ["FULL STACK", "DEV"];
+5        this.age = new Date().getFullYear() - 2014;
+6      }
+7  }
+```
 <bold>
 Hello am la niina a transgender gay woman 🏳️‍⚧️🏳️‍🌈🇺🇬 and a software developer . # Kotlin # Java # Golang # c++ # swift # next.js plus a few others
 </bold><br/>
