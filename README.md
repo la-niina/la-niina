@@ -1,6 +1,8 @@
-```
-Hello Am la niina and welcome
-```
+<bold>
+Hello am la niina a transgender gay woman 🏳️‍⚧️🏳️‍🌈🇺🇬 and a software developer . # Kotlin # Java # Golang # c++ # swift # next.js plus a few others
+</bold><br/>
+
+<br/>
 
 📈 my github stats
 
