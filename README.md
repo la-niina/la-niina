@@ -1,17 +1,15 @@
 ```
 Hello Am la niina and welcome
 ```
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=la-niina&label=Views&color=blue&style=plastic" alt="digvijay173" />
-</p>
-<br/>
 
 📈 my github stats
 
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-</br>
+[![la niina](https://img.shields.io/badge/la-niina-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=la-niina&color=green)  ![Followers](https://img.shields.io/github/followers/la-niina)  ![Stars](https://img.shields.io/github/stars/la-niina?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-🛠️ A few tools
+![](https://github-readme-stats.vercel.app/api?username=la-niina&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=la-niina&theme=gotham&hide_border=false)<br/>
+
+🛠️ tools
 
 <p align="start">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
