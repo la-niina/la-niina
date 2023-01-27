@@ -1,1 +1,23 @@
 
+{
+  "list": {
+     {
+      title: "Googling Users",
+      sub_title: "Next UI",
+      url_title: "Google",
+      img: "https://avatars.githubusercontent.com/u/86160567?s=200&v=4",
+      read_me: "Make beautiful websites regardless of your design experience.",
+      url_link: "https://www.google.com/",
+      redirect: "/",
+    },
+    {
+      title: "Googling Users",
+      sub_title: "Next UI",
+      url_title: "Google",
+      img: "https://avatars.githubusercontent.com/u/86160567?s=200&v=4",
+      read_me: "Make beautiful websites regardless of your design experience.",
+      url_link: "https://www.google.com/",
+      redirect: "/",
+    },
+  }
+}
