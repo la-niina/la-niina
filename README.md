@@ -1,22 +1,32 @@
-<p align="start">
-<h3 height="50px" align="center"><img src="https://raw.githubusercontent.com/la-niina/la-niina/e20729a42a3082ef3d963ab2439c27713525d203/download.svg"/> la niina</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/la-niina/la-niina/e20729a42a3082ef3d963ab2439c27713525d203/download.svg" alt="la niina">
 </p>
 
-<br/>
-<br/>
-<br/>
+<h3 align="center">Hi there, I'm la niina</h3>
+
+<p align="center">
+  <samp>Transgender Gay Woman 🏳️‍⚧️🏳️‍🌈🇺🇬 | Software Developer | Full Stack Developer</samp>
+  <br>
+  <samp>Skills: Kotlin, Java, Golang, C++, Swift, Next.js, and more</samp>
+</p>
+
+<br>
 
 ```java
-1  class Person {
-2      constructor() {
-3        this.name = "la niina";
-4        this.traits = ["FULL STACK", "DEV"];
-5        this.age = new Date().getFullYear() - 2014;
-6      }
-7  }
+class Person {
+  constructor() {
+    this.name = "la niina";
+    this.traits = ["FULL STACK", "DEV"];
+    this.age = new Date().getFullYear() - 2014;
+  }
+}
 ```
 
-Hello am la niina a transgender gay woman 🏳️‍⚧️🏳️‍🌈🇺🇬 and a software developer . # Kotlin # Java # Golang # c++ # swift # next.js plus a few others
+# Languages and Frameworks
+- Kotlin  | Java    | Golang | Swift
+- C++     | Bash    | Flutter| JavaScript
+- TypeScript | React | GraphQL| Node.js
+
 </bold><br/>
 <br/>
 <code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -34,14 +44,24 @@ Hello am la niina a transgender gay woman 🏳️‍⚧️🏳️‍🌈🇺🇬
 <br/>
 <br/>
 
-📈 my github stats
+# 📈 my github stats
 
 [![la niina](https://img.shields.io/badge/la-niina-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=la-niina&color=green)  ![Followers](https://img.shields.io/github/followers/la-niina)  ![Stars](https://img.shields.io/github/stars/la-niina?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 ![](https://github-readme-stats.vercel.app/api?username=la-niina&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=la-niina&theme=gotham&hide_border=false)<br/>
 
-🛠️ tools
+<!-- Transgender flag colors -->
+<img src="https://img.shields.io/badge/🏳️‍⚧️-Transgender%20Flag-5599ff.svg?style=flat-square" alt="Transgender Flag">
+
+<!-- Rainbow color -->
+<img src="https://img.shields.io/badge/🌈-Rainbow-000000.svg?style=flat-square" alt="Rainbow">
+
+<!-- Lesbian flag -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Lesbian_Pride_Flag_2019.svg?style=flat-square" alt="Lesbian Flag" width="25" height="15">
+
+
+# 🛠️ tools
 
 <p align="start">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
