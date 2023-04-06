@@ -64,7 +64,7 @@ class Person {
 # 🛠️ My tools , Mindset , Personality and Presentation
 
 <p align="start">
-  <img align="center" alt="Skills" src="cover.png" />
+  <img align="center" alt="Skills" src="la-niina.png" />
 </p>
 <!---
 la-niina/la-niina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
