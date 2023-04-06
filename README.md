@@ -61,7 +61,7 @@ class Person {
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Lesbian_Pride_Flag_2019.svg?style=flat-square" alt="Lesbian Flag" width="25" height="15">
 
 
-# 🛠️ tools
+# 🛠️ My tools , Mindset , Personality and Presentation
 
 <p align="start">
   <img align="center" alt="Skills" src="cover.png" />
