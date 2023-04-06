@@ -64,7 +64,7 @@ class Person {
 # 🛠️ tools
 
 <p align="start">
-  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+  <img align="center" alt="Skills" src="cover.png" />
 </p>
 <!---
 la-niina/la-niina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
