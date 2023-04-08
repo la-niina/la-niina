@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/la-niina/la-niina/e20729a42a3082ef3d963ab2439c27713525d203/download.svg" alt="la niina">
+  <img src="la_niina.png" height="100" width="100" alt="la niina">
 </p>
 
 <h3 align="center">Hi there, I'm la niina</h3>
@@ -7,7 +7,6 @@
 <p align="center">
   <samp>Transgender Gay Woman 🏳️‍⚧️🏳️‍🌈🇺🇬 | Software Developer | Full Stack Developer</samp>
   <br>
-  <samp>Skills: Kotlin, Java, Golang, C++, Swift, Next.js, and more</samp>
 </p>
 
 <br>
@@ -23,10 +22,6 @@ class Person {
 ```
 
 # Languages and Frameworks
-- Kotlin  | Java    | Golang | Swift
-- C++     | Bash    | Flutter| JavaScript
-- TypeScript | React | GraphQL| Node.js
-
 </bold><br/>
 <br/>
 <code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
