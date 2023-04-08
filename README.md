@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="la_niina.png" height="100" width="100" alt="la niina">
+  <img src="la_niina logo.png" height="500" width="500" alt="la niina">
 </p>
 
 <h3 align="center">Hi there, I'm la niina</h3>
