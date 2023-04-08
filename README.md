@@ -53,7 +53,8 @@ class Person {
 
 # Used programming langauages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=la_niina)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Transgender flag colors -->
 <img src="https://img.shields.io/badge/🏳️‍⚧️-Transgender%20Flag-5599ff.svg?style=flat-square" alt="Transgender Flag">
