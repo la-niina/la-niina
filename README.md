@@ -1,3 +1,5 @@
+ [![wakatime](https://wakatime.com/badge/user/0d79fbd8-f580-4eea-a144-895437e093b4.svg)](https://wakatime.com/@0d79fbd8-f580-4eea-a144-895437e093b4)
+ 
 <p align="center">
   <img src="https://cvws.icloud-content.com/B/ARHH_Ck_L_KR6et7ABFvNgC-uMLSAVPoFgy6A84jRgm8E3IDmurG553-/la_niina.png?o=AoV4jRz8LZ8YaZEU-_fO4p_HpsOMj89s0DHeDMh-mojY&v=1&x=3&a=CAogghLizR8rp_47M5WxsN2L7eVUVTKUb_I37wmlCIQFySISbxCWhan99TAYluKE__UwIgEAUgS-uMLSWgTG553-aicMOEBIAgEfYHCVmkU6xDkyWp79vhGnznEdckj6ZZxYLhqYbNeCUDtyJ-cakJnx9EO3oFQ7GjP-e84ape8oMAng4qFl5xHU0vEJFUvLNvQhAA&e=1680940806&fl=&r=30766c09-1edc-415e-a60b-1d177e01c911-1&k=_KQbNi1U37kqg6uhQj9yZg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=139&s=Gt31cFl1_o0Wh29CmYTxU12do18&cd=i" height="300" width="300" alt="la niina">
 </p>
