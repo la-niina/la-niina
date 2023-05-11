@@ -52,6 +52,9 @@ class Person {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=la_niina)](https://github.com/anuraghazra/github-readme-stats)
 
+# Some of my works
+
+<img src="https://raw.githubusercontent.com/la-niina/Queerr/main/public/queerr_home.png" style="max-width:100%;height:auto;">
 
 <!-- Transgender flag colors -->
 <img src="https://img.shields.io/badge/🏳️‍⚧️-Transgender%20Flag-5599ff.svg?style=flat-square" alt="Transgender Flag">
