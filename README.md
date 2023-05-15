@@ -9,6 +9,7 @@
 <p align="center">
   <samp>Transgender Gay Woman 🏳️‍⚧️🏳️‍🌈🇺🇬 | Software Developer | Full Stack Developer</samp>
   <br>
+ <samp>LGBTQIA+ Activist , advocate for software skills and human rights activist</samp>
 </p>
 
 <br>
