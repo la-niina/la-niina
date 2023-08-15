@@ -54,7 +54,9 @@ class Person {
 
 # Used programming langauages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=la_niina)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-niina&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=la_niina)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Some of my works
 
