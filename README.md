@@ -9,7 +9,10 @@
 <p align="center">
   <samp>Transgender Gay Woman 🏳️‍⚧️🏳️‍🌈🇺🇬 | Software Developer | Full Stack Developer</samp>
   <br>
- <samp>LGBTQIA+ Activist , advocate for software skills and human rights activist</samp>
+ <samp>LGBTQIA+ Activist, advocate for software skills, and human rights activist</samp>
+ <br>
+ <br>
+ <samp><a href="https://gofund.me/d228af80">GoFundMe</a></samp>
 </p>
 
 <br>
