@@ -12,7 +12,7 @@
  <samp>LGBTQIA+ Activist, advocate for software skills, and human rights activist</samp>
  <br>
  <br>
- <samp><a href="https://www.buymeacoffee.com/laniina">Buy Me A Coffee</a></samp>
+ <samp><a href="https://www.buymeacoffee.com/laniina">BuyMe</a></samp>
 </p>
 
 <br>
