@@ -1,0 +1,143 @@
+{
+  "movies": [
+    {
+      "title": "The Matrix",
+      "subTitle": "A computer programmer discovers the true nature of his reality and his role in the war against its controllers.",
+      "description": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a malevolent hacker known as Neo. Caught in a dilemma between the Matrix and the real world, Neo must choose to follow the white rabbit to determine if his reality is a physical or mental construct.",
+      "catergory": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "releaseDate": "1999-03-31",
+      "ratings": {
+        "IMDb": "8.7",
+        "Rotten Tomatoes": "87%"
+      },
+      "movieUrl": "https://www.themoviedb.org/movie/971-the-matrix"
+    },
+    {
+      "title": "The Dark Knight",
+      "subTitle": "Batman raises the stakes in his war on crime.",
+      "description": "With the help of allies Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as The Joker.",
+      "catergory": [
+        "Action",
+        "Crime"
+      ],
+      "releaseDate": "2008-07-18",
+      "ratings": {
+        "IMDb": "9.0",
+        "Rotten Tomatoes": "94%"
+      },
+      "movieUrl": "https://www.themoviedb.org/movie/155-the-dark-knight"
+    },
+    {
+      "title": "Inception",
+      "subTitle": "A thief who steals information by infiltrating the subconscious is offered a chance to have his criminal history erased as payment for the implantation of another man's idea into his mind.",
+      "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved.",
+      "catergory": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "releaseDate": "2010-07-16",
+      "ratings": {
+        "IMDb": "8.8",
+        "Rotten Tomatoes": "86%"
+      },
+      "movieUrl": "https://www.themoviedb.org/movie/809-inception"
+    }
+  ],
+  "series": [
+    {
+      "title": "Breaking Bad",
+      "subTitle": "A high school chemistry teacher turned methamphetamine manufacturing drug dealer teams with a former student.",
+      "description": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live, he decides he has nothing to lose. He turns to a life of crime, producing and selling methamphetamine with a former student, Jesse Pinkman, with the aim of securing his family's financial future before he dies.",
+      "releaseDate": "2008-01-20",
+      "catergory": [
+        "Crime",
+        "Drama"
+      ],
+      "ratings": {
+        "IMDb": "9.5",
+        "Rotten Tomatoes": "96%"
+      },
+      "seasons": [
+        {
+          "seasonTitle": "Season 1",
+          "episodes": [
+            {
+              "episode": 1,
+              "episodeTitle": "Pilot",
+              "episodeUrl": "https://www.themoviedb.org/tv/886-breaking-bad/season/1/episode/1",
+              "episodeDescription": "A high school chemistry teacher turned methamphetamine manufacturing drug dealer teams with a former student.",
+              "ratings": {
+                "IMDb": "9.5",
+                "Rotten Tomatoes": "100%"
+              }
+            },
+            {
+              "episode": 2,
+              "episodeTitle": "Cat's in the Bag...",
+              "episodeUrl": "https://www.themoviedb.org/tv/886-breaking-bad/season/1/episode/2",
+              "episodeDescription": "After his first drug deal with Krazy-8 and Emilio goes awry, Walt is forced to deal with a corpse, while Jesse's nerves threaten to blow their cover.",
+              "ratings": {
+                "IMDb": "9.0",
+                "Rotten Tomatoes": "96%"
+              }
+            },
+            {
+              "episode": 3,
+              "episodeTitle": "...and the Bag's in the River",
+              "episodeUrl": "https://www.themoviedb.org/tv/886-breaking-bad/season/1/episode/3",
+              "episodeDescription": "Jesse's attempt to dispose of the RV backfires, while Walt is forced to make a difficult decision.",
+              "ratings": {
+                "IMDb": "9.2",
+                "Rotten Tomatoes": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Stranger Things",
+      "subTitle": "A young boy is missing, a small town holds many secrets, and a strange girl appears.",
+      "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+      "releaseDate": "2016-07-15",
+      "catergory": [
+        "Sci-Fi",
+        "Horror"
+      ],
+      "ratings": {
+        "IMDb": "8.9",
+        "Rotten Tomatoes": "94%"
+      },
+      "seasons": [
+        {
+          "seasonTitle": "Season 1",
+          "episodes": [
+            {
+              "episode": 1,
+              "episodeTitle": "Chapter One: The Vanishing of Will Byers",
+              "episodeUrl": "https://www.themoviedb.org/tv/71727-stranger-things/season/1/episode/1",
+              "episodeDescription": "A young boy goes missing in a small Indiana town, and his friends, parents, and the local police chief begin a search that leads them to terrifying supernatural forces.",
+              "ratings": {
+                "IMDb": "8.9",
+                "Rotten Tomatoes": "95%"
+              }
+            },
+            {
+              "episode": 2,
+              "episodeTitle": "Chapter Two: The Weirdo on Maple Street",
+              "episodeUrl": "https://www.themoviedb.org/tv/71727-stranger-things/season/1/episode/2",
+              "episodeDescription": "As they search for Will, Mike, Dustin, and Lucas stumble upon Eleven, a young girl with psychokinetic powers.",
+              "ratings": {
+                "IMDb": "9.1",
+                "Rotten Tomatoes": "96%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
