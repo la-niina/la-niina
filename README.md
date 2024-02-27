@@ -47,7 +47,7 @@ class Person {
 
 # 📈 my github stats
 
-[![la niina](https://img.shields.io/badge/la-niina-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=la-niina&color=green&show_icons=true)  ![Followers](https://img.shields.io/github/followers/la-niina)  ![Stars](https://img.shields.io/github/stars/la-niina?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+[![la niina](https://img.shields.io/badge/la-niina-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=la-niina&color=blue&show_icons=true)  ![Followers](https://img.shields.io/github/followers/la-niina)  ![Stars](https://img.shields.io/github/stars/la-niina?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 
 ![la niina](https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&hide_border=true&card_width=100&include_all_commits=true&count_private=true&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)![la niina](https://github-readme-streak-stats.herokuapp.com/?user=la-niina&show_icons=true&hide_border=true&card_width=100&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)<br/>
