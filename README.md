@@ -1,7 +1,7 @@
  [![wakatime](https://wakatime.com/badge/user/0d79fbd8-f580-4eea-a144-895437e093b4.svg)](https://wakatime.com/@0d79fbd8-f580-4eea-a144-895437e093b4)
  
 <p align="center">
-  <img src="https://moluccus.vercel.app/logo.png" height="300" width="300" alt="la niina">
+  <img src="https://avatars.githubusercontent.com/u/118225191?v=4" style="border-radius: 100%;" height="300" width="300" alt="la niina">
 </p>
 
 <h3 align="center">Hi there, I'm la niina</h3>
