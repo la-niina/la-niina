@@ -1,7 +1,10 @@
  [![wakatime](https://wakatime.com/badge/user/0d79fbd8-f580-4eea-a144-895437e093b4.svg)](https://wakatime.com/@0d79fbd8-f580-4eea-a144-895437e093b4)
  
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/118225191?v=4" style="border-radius: 100%;" height="300" width="300" alt="la niina">
+<p align="center" style="width:200px, align: center, justify: center, max-width: 50%">
+ 
+ ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118225191?v=4&h=300&w=300&fit=cover&a=center&mask=circle&maxage=7d
+ )
+ 
 </p>
 
 <h3 align="center">Hi there, I'm la niina</h3>
@@ -49,8 +52,9 @@ class Person {
 
 [![la niina](https://img.shields.io/badge/la-niina-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=la-niina&color=blue&show_icons=true)  ![Followers](https://img.shields.io/github/followers/la-niina)  ![Stars](https://img.shields.io/github/stars/la-niina?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-
-![la niina](https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&hide_border=true&card_width=100&include_all_commits=true&count_private=true&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)![la niina](https://github-readme-streak-stats.herokuapp.com/?user=la-niina&show_icons=true&hide_border=true&card_width=100&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)<br/>
+[![la niina](https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![la niina](https://github-readme-stats.vercel.app/api?username=la-niina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![la niina](https://github-readme-streak-stats.herokuapp.com/?user=la-niina&show_icons=true&hide_border=true&card_width=100&bg_color=92.05deg,d2a8ff,f778ba,ff7b72)<br/>
 
 # Used programming langauages
 
