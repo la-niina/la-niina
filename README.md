@@ -1,10 +1,7 @@
  [![wakatime](https://wakatime.com/badge/user/0d79fbd8-f580-4eea-a144-895437e093b4.svg)](https://wakatime.com/@0d79fbd8-f580-4eea-a144-895437e093b4)
- 
-<p align="center" style="width:200px, align: center, justify: center, max-width: 50%">
- 
- ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118225191?v=4&h=300&w=300&fit=cover&a=center&mask=circle&maxage=7d
- )
- 
+
+<p align="center">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118225191?v=4&h=300&w=300&fit=cover&a=center&mask=circle&maxage=7d" height="300" width="300" alt="la niina">
 </p>
 
 <h3 align="center">Hi there, I'm la niina</h3>
