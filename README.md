@@ -103,7 +103,7 @@ const laNiina = new DeveloperProfile();
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=la-niina&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakNum=7F52FF&sideNums=7F52FF&currStreakLabel=7F52FF&sideLabels=7F52FF&dates=7F52FF#gh-dark-mode-only" alt="la niina's GitHub Streak - Dark Mode" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=la-niina&theme= εταιρεία&hide_border=true&stroke=0000&background=FFFFFF&ring=FF6347&fire=FF6347&currStreakNum=FF6347&sideNums=FF6347&currStreakLabel=FF6347&sideLabels=FF6347&dates=FF6347#gh-light-mode-only" alt="la niina's GitHub Streak - Light Mode" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=la-niina&theme=tokyonight&hide_border=true&stroke=0000&background=FFFFFF&ring=FF6347&fire=FF6347&currStreakNum=FF6347&sideNums=FF6347&currStreakLabel=FF6347&sideLabels=FF6347&dates=FF6347#gh-light-mode-only" alt="la niina's GitHub Streak - Light Mode" />
 </p>
 
 
@@ -147,11 +147,11 @@ const laNiina = new DeveloperProfile();
 
 ## 🚀 Projects Showcase
 
-<p align="center">
+<!--p align="center">
   <samp>Here are a couple of projects I'm proud of. More details can be found in their respective repositories!</samp>
-</p>
+</p-->
 
-<table align="center" style="margin-left: auto; margin-right: auto; border: none;">
+<!--table align="center" style="margin-left: auto; margin-right: auto; border: none;">
   <tr>
     <td width="50%" valign="top" style="border: none; padding: 10px;">
       <h3 align="center">Kor</h3>
@@ -177,7 +177,7 @@ const laNiina = new DeveloperProfile();
     </td>
   </tr>
 </table>
-<br/>
+<br/-->
 
 ## 🤝 Connect With Me
 
