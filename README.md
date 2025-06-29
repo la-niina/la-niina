@@ -41,11 +41,7 @@ class DeveloperProfile {
     this.roles = ["Software Developer", "Full Stack Developer"];
     this.passions = ["LGBTQIA+ Activism", "Software Skills Advocacy", "Human Rights"];
     this.pronouns = "She/Her";
-    // Calculating age based on a presumed start year. Update if incorrect.
-    // Assuming "age" in the original snippet meant years of experience or similar.
-    // If it's actual age, it's better to remove or keep it very general.
-    // For now, let's represent experience starting from a symbolic year.
-    this.experienceSince = 2014;
+    this.experienceSince = 2011;
   }
 
   displayProfile() {
