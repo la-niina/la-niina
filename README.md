@@ -13,8 +13,13 @@
 
   <br /><br />
 
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118225191?v=4&h=250&w=250&fit=cover&a=center&mask=circle&maxage=7d" width="140" height="140" alt="La niina" />
-
+<img 
+  src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118225191?v=4&h=250&w=250&fit=cover&a=center&mask=circle&maxage=1m" 
+  width="140" 
+  height="140" 
+  alt="La niina" 
+  style="border-radius: 50%; object-fit: cover;" 
+/>
   <h1>Hi there, I'm La niina 👋</h1>
 
   <p>
